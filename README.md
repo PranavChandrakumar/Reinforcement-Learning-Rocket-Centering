@@ -15,7 +15,7 @@ make
 ### Program Output
 Two key outputs are produced by this program. First, the optimal solution algorithm is displayed, and then an animation plays which demonstrates the effect of the computed solution on the rocket. 
 
-#### Changing the program
+### Changing the program
 If you want to view the effect of different initial parameters for the physics simulation, do the following.
 
 Open:
