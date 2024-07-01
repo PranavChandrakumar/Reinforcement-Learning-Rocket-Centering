@@ -26,6 +26,6 @@ Go to line 659:
 ```
 mt19937 rng(42)
 ```
-Change the rangom number generator to any desired seed, and recompile and run the program to view the changes to the simulation.
+Change the random number generator to any desired seed, and recompile and run the program to view the changes to the simulation.
 
 
